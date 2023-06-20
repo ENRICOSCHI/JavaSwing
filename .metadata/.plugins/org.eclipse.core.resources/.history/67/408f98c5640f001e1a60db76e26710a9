@@ -1,0 +1,13 @@
+import javax.swing.JFrame;
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		JFrame frame = new JFrame();//creates a frame
+		frame.setTitle("Titolo del JFrame");
+		frame.setSize(420, 420);// sets the dimension, y dimension of frame
+		frame.setVisible(true);//make frame visible
+		
+		}
+
+}

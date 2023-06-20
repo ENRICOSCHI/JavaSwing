@@ -1,0 +1,20 @@
+import javax.swing.JFrame;
+//import javax.swing.ImageColor;
+public class MyFrame extends JFrame{
+ MyFrame(){
+	 JFrame frame = new JFrame();//creates a frame
+		this.setTitle("Titolo del Jthis");
+		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		this.setResizable(false);//prevent this from being resized
+		this.setSize(420, 420);// sets the dimension, y dimension of this
+		this.setVisible(true);//make this visible
+		
+		/*ImageIcon image = new ImageIcon("immagine.png"); //creare un icona per farlo devi inserire l'immagine nel progetto
+		frame.setIconImage(image.getImage());//change icon frame
+		frame.GetContentPane().setBackground(new Color(0,0,0)); //change color bakcground
+		
+		
+		
+		*/
+ }
+}

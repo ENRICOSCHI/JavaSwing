@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\HP\OneDrive - Istituto Istruzione Superiore Volterra Elia\EnricoFioreInformtaica\JavaSwing\.metadata\.plugins\org.eclipse.jdt.core
+1994032945.index
+2673281945.index
+1865797976.index
