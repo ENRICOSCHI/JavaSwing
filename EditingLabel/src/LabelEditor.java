@@ -9,7 +9,7 @@ public class LabelEditor extends JFrame {
     private JTextField[] numberFields; // Array di JTextField per modificare i numeri
 
     public LabelEditor() {
-        // Inizializza l'array di numeri (puoi modificare questo con i tuoi numeri)
+        // Inizializza l'array di numeri (puoi modificare questo con i tuoi numeri) oppure basta cambiarlo con gli array già presenti nel codice
         numbers = new int[]{1, 2, 3, 4, 5};
 
         // Inizializza gli array di JLabel e JTextField
